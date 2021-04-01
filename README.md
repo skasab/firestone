@@ -1,7 +1,8 @@
-# My beautiful readme file
+# Firestone
 
-It explains the architecture and design principles that this team has chosen and serves as a guide for teams on-boarding this project.  
+A version of Hearthstone built in Clojure.
 
+CSCI 343: App Development w/ Functional Programming, taught by Tomas Ekholm.
 
 
 
